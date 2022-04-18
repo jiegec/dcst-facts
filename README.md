@@ -8,13 +8,13 @@
 
 ## 2012 级
 
-[计算机系2012级本科生开学典礼举行](https://www.cs.tsinghua.edu.cn/info/1058/1186.htm)
+[计算机系2012级本科生开学典礼举行](https://www.cs.tsinghua.edu.cn/info/1058/1186.htm) [存档](./%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB2012%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E4%B8%BE%E8%A1%8C-%E6%B8%85%E5%8D%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%B3%BB.pdf)
 
 1. 计算机系 2012 级 130 余名新生
 
 ## 2013 级
 
-[计算机系2013级本科生入学](https://www.cs.tsinghua.edu.cn/info/1058/1162.htm)
+[计算机系2013级本科生入学](https://www.cs.tsinghua.edu.cn/info/1058/1162.htm) [存档](./%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB2013%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F%E5%85%A5%E5%AD%A6-%E6%B8%85%E5%8D%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%B3%BB.pdf)
 
 1. 计算机系 2013 级 140 余名新生
 
@@ -47,11 +47,11 @@
 
 ## 2017 级
 
-[七字班来袭 | 2017新生数据大揭秘！](https://mp.weixin.qq.com/s/VHvJHQ4rmZ6bXyPb-GdfLw)
+[七字班来袭 | 2017新生数据大揭秘！](https://mp.weixin.qq.com/s/VHvJHQ4rmZ6bXyPb-GdfLw) [存档](./%E4%B8%83%E5%AD%97%E7%8F%AD%E6%9D%A5%E8%A2%AD%20_%202017%E6%96%B0%E7%94%9F%E6%95%B0%E6%8D%AE%E5%A4%A7%E6%8F%AD%E7%A7%98%EF%BC%81.pdf)
 
 1. 计算机类男女比 7.14:1。
 
-[迎新特辑 | 崭新篇章](https://mp.weixin.qq.com/s/fYrwYWgSOJf2SoOvihGbjA)
+[迎新特辑 | 崭新篇章](https://mp.weixin.qq.com/s/fYrwYWgSOJf2SoOvihGbjA) [存档](./%E8%BF%8E%E6%96%B0%E7%89%B9%E8%BE%91%20_%20%E5%B4%AD%E6%96%B0%E7%AF%87%E7%AB%A0.pdf)
 
 1. 首次开展计算机类大类招生。
 2. 计算机大类 200 余名新生中，大一由计算机系分管的有 197 人。
