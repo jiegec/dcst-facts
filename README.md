@@ -300,8 +300,13 @@
 
 招生章程：
 
-- [清华](https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--infoId-4557253449,method-view,schId-3.dhtml)
+- [清华 2023](https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--infoId-4557253449,method-view,schId-3.dhtml)
 - [北大](https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--infoId-4564409074,method-view,schId-1.dhtml)
+
+强基计划招生简章：
+
+- [清华 2023](https://www.join-tsinghua.edu.cn/info/1007/1767.htm)
+- [北大 2023](https://www.gotopku.cn/index/detail/1335.html)
 
 ## 数据源
 
