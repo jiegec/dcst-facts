@@ -293,6 +293,16 @@
 
 注：根据相关文件规定，高校进行就业管理的主体应为档案在校毕业生，故本报告统计对象为清华档案在校的毕业生。此外，清华毕业生中还包括港澳台学生，国际学生，联合培养飞行员、部分 MBA/EMBA/MPA 学生、部分科研单位定向委培生等各类档案不在校学生。简而言之，上面表格中的本科毕业人数不包括国际学生、港澳台学生和档案不在校学生。
 
+历年录取分数线：
+
+- [清华](https://join-tsinghua.edu.cn/xxgk/lnlqfsx.htm)
+- [北大](https://www.gotopku.cn/programa/admitline/7.html)
+
+招生章程：
+
+- [清华](https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--infoId-4557253449,method-view,schId-3.dhtml)
+- [北大](https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--infoId-4564409074,method-view,schId-1.dhtml)
+
 ## 数据源
 
 - 清华就业
