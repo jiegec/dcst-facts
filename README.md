@@ -216,6 +216,10 @@
 
 [清华大学 2024 年计算机科学与技术系接收推荐免试直硕生拟录取名单公示](https://www.cs.tsinghua.edu.cn/info/1048/5728.htm)
 
+[贵系职业生涯规划 | 推研讲座总结](https://mp.weixin.qq.com/s/JEdjILOnPPQQ0pdpJPb2gg)
+
+1. 排名分母为 181，推研排名分母为 196
+
 ## 2021 级/2025 届
 
 [清华开学了！终于等到你！](https://mp.weixin.qq.com/s/wefVooWHHTEF4ofb6arFcw)
@@ -295,7 +299,7 @@
 
 1. 清华大学计算机类本科生依托清华大学计算机系、软件学院、网络科学与网络空间研究院和交叉信息研究院共同培养，吴建平院士担任首席教授，2023 年计算机类共招收本科生 270 名。
 
-[三字班新生大数据丨开启水木清华的全新次元 ](https://mp.weixin.qq.com/s/VPjCNYGefNpz3_TE5hyCPA)
+[三字班新生大数据丨开启水木清华的全新次元](https://mp.weixin.qq.com/s/VPjCNYGefNpz3_TE5hyCPA)
 
 1. 25.1% 的同学来自未央书院，书院总人数达到 35.5%
 2. 男女比例 2.53:1
